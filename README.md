@@ -7,4 +7,5 @@ Repository für Interface Design, Cansel Coskun, SoSe 21, OMB 4
 # Aufgabe 3
 <a href="https://github.com/cansel28/IFD/blob/a6c3a1e72241b390f599fa52d3c765fcec2ce5d2/Aufgabe%203/Interaktive%20Datenvisualisierung.pdf">Konzept und Moodboard Interaktive Datenvisualisierung</a>
 # Aufgabe 4
+<a href="https://github.com/cansel28/IFD/blob/ce283b8032dc9377b992ef90724967eab30785c6/Aufgabe%204/Low_Fidelity_Prototype.pdf">Low-Fidelity Prototype</a>
 <a href="https://github.com/cansel28/IFD/blob/ce283b8032dc9377b992ef90724967eab30785c6/Aufgabe%204/Figma_von_Cansel_Coskun.pdf">Toolvorstellung Figma</a>
