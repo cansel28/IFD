@@ -14,3 +14,4 @@ Repository für Interface Design, Cansel Coskun, SoSe 21, OMB 4
 <a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal?page-id=0%3A1&node-id=20%3A0&viewport=-484%2C911%2C0.5&scaling=scale-down">High-Fidelity Prototyp Bookjournal</a><br>
 <a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal?page-id=0%3A1&node-id=20%3A0&viewport=-90%2C769%2C0.5934918522834778&scaling=contain">High-Fidelity Prototyp Bookjournal (überarbeitet nach Pitch)</a>
 # Aufgabe 7
+<a href="https://github.com/cansel28/IFD/blob/4a7e3be356bf0cdcf1fccd22afcc4bdaa88ed495/Aufgabe%207/Dokumentation_Test_und_Evaluation.pdf">Test und Evaluation</a>
