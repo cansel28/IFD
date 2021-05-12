@@ -11,4 +11,6 @@ Repository für Interface Design, Cansel Coskun, SoSe 21, OMB 4
 <a href="https://github.com/cansel28/IFD/blob/57765a9d30ab9264598f858f4c8362d75b2b0e3c/Aufgabe%204/Low_Fidelity_Prototype.pdf">Low-Fidelity Prototype</a><br>
 <a href="https://github.com/cansel28/IFD/blob/ce283b8032dc9377b992ef90724967eab30785c6/Aufgabe%204/Figma_von_Cansel_Coskun.pdf">Toolvorstellung Figma</a>
 # Aufgabe 5&6
-<a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal?page-id=0%3A1&node-id=20%3A0&viewport=-484%2C911%2C0.5&scaling=scale-down">High-Fidelity Prototyp Bookjournal</a>
+<a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal?page-id=0%3A1&node-id=20%3A0&viewport=-484%2C911%2C0.5&scaling=scale-down">High-Fidelity Prototyp Bookjournal</a><br>
+<a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal?page-id=0%3A1&node-id=20%3A0&viewport=-90%2C769%2C0.5934918522834778&scaling=contain">High-Fidelity Prototyp Bookjournal (überarbeitet nach Pitch)</a>
+# Aufgabe 7
