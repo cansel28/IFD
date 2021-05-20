@@ -11,6 +11,9 @@ Repository für Interface Design, Cansel Coskun, SoSe 21, OMB 4
 <a href="https://github.com/cansel28/IFD/blob/57765a9d30ab9264598f858f4c8362d75b2b0e3c/Aufgabe%204/Low_Fidelity_Prototype.pdf">Low-Fidelity Prototype</a><br>
 <a href="https://github.com/cansel28/IFD/blob/ce283b8032dc9377b992ef90724967eab30785c6/Aufgabe%204/Figma_von_Cansel_Coskun.pdf">Toolvorstellung Figma</a>
 # Aufgabe 5&6
-<a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal?page-id=0%3A1&node-id=20%3A0&viewport=-90%2C769%2C0.5934918522834778&scaling=contain">High-Fidelity Prototyp Bookjournal (überarbeitet nach Pitch)</a>
+<a href="https://www.figma.com/proto/15fFgb7ALTwUuaIp4gxyHm/IFD_Bookjournal-before?page-id=0%3A1&node-id=20%3A0&viewport=65%2C306%2C0.06831641495227814&scaling=contain">High-Fidelity Prototyp Bookjournal (überarbeitet nach Pitch)</a>
 # Aufgabe 7
 <a href="https://github.com/cansel28/IFD/blob/4a7e3be356bf0cdcf1fccd22afcc4bdaa88ed495/Aufgabe%207/Dokumentation_Test_und_Evaluation.pdf">Test und Evaluation</a>
+# Aufgabe 8
+<a href="https://github.com/cansel28/IFD/blob/51ee10db1b6100b68582819b6b7d92ccd0c4c23b/Aufgabe%208/GUI_Book_Journal_Dokumentation.pdf">GUI Dokumentation</a><br>
+<a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal-after?page-id=0%3A1&node-id=20%3A0&viewport=-5265%2C890%2C0.5655802488327026&scaling=contain">High-Fidelity Prototyp Bookjournal (Finale Version)</a>
