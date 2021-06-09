@@ -17,3 +17,7 @@ Repository für Interface Design, Cansel Coskun, SoSe 21, OMB 4
 # Aufgabe 8
 <a href="https://github.com/cansel28/IFD/blob/51ee10db1b6100b68582819b6b7d92ccd0c4c23b/Aufgabe%208/GUI_Book_Journal_Dokumentation.pdf">GUI Dokumentation</a><br>
 <a href="https://www.figma.com/proto/MD0Fsi1FQFRzaGzKaXewLG/IFD_Bookjournal-after?page-id=0%3A1&node-id=20%3A0&viewport=-5265%2C890%2C0.5655802488327026&scaling=contain">High-Fidelity Prototyp Bookjournal (Finale Version)</a>
+# Aufgabe 9
+-----------
+# Aufgabe 10
+<a href="https://github.com/cansel28/IFD/blob/5bfea732b09fcf2f4c5a3cf0ddcc2df2ad1cd07b/Aufgabe%2010/Konzeptentwurf_Sprachassistenten.pdf">VUI Konzept</a>
