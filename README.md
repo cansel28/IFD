@@ -20,4 +20,5 @@ Repository für Interface Design, Cansel Coskun, SoSe 21, OMB 4
 # Aufgabe 9
 -----------
 # Aufgabe 10
-<a href="https://github.com/cansel28/IFD/blob/5bfea732b09fcf2f4c5a3cf0ddcc2df2ad1cd07b/Aufgabe%2010/Konzeptentwurf_Sprachassistenten.pdf">VUI Konzept</a>
+<a href="https://github.com/cansel28/IFD/blob/5bfea732b09fcf2f4c5a3cf0ddcc2df2ad1cd07b/Aufgabe%2010/Konzeptentwurf_Sprachassistenten.pdf">VUI Konzept</a><br>
+<a href="https://github.com/cansel28/IFD/blob/3ea7775f9d7fb40f3bc5c600a05ff4d40fa98e49/Aufgabe%2010/Dialog-Flow%20Sprachassistenten.pdf">VUI Dialog-Flow</a>
